@@ -7,7 +7,7 @@ How to install redis windows service by redis-topshelf ?
 
 1.Edit the config file redis-topshelf.exe.config.
 
-    <add key="redis.service.name" value="RedisService"/>
+        <add key="redis.service.name" value="RedisService"/>
 		<add key="redis.service.displayname" value="Redis Service"/>
 		<add key="redis.service.description" value="Running redis in background."/>
 		<add key="redis.server" value="redis-server.exe"/>
