@@ -1,7 +1,6 @@
 redis-topshelf
 ==============
-redis-topshelf is a simple windows service installer via using top-shelf(http://topshelf-project.com/) to wrap the redis console window as a 
-windows service.
+redis-topshelf is a simple windows service installer package via using top-shelf(http://topshelf-project.com/) to wrap the redis console window as a windows service.
 
 How to install redis windows service by redis-topshelf ?
 
